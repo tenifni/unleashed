@@ -1,5 +1,5 @@
 # Welcome
-Here you will find course materials used in my undergrad years at UCLA Physics.
+Here is my collection of course materials used in my undergrad years at UCLA Physics.
 ### Work in progress (last updated 02/2018): uploading 115B, 1-series, 117. Coming soon: 115C, 180F 
 
 ## 180Q Quantum optics (2018 Winter)- Lecture notes
