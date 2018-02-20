@@ -12,3 +12,9 @@ Here you will find course materials used in my undergrad years at UCLA Physics.
 ## 115B (2017 Fall, Taught by Prof. John Miao) - Dicussion notes and HW solutions
 
 [All the files](https://github.com/tenifni/unleashed/tree/master/115B)
+
+
+## Books:
+- [Linear Algebra by Friedbery pdf](https://github.com/tenifni/unleashed/blob/master/FriedbergLinear%20Algebra.pdf)
+- [115 Quantum Mechanics Griffiths solution manual, pdf](Griffiths-D-J-Introduction-to-Quantum-Mechanics-Solutions-2nd-Ed-Pearson-s.pdf)
+- [144 Polymer Physics Textbook: Giant Molecules, pdf](https://github.com/tenifni/unleashed/blob/master/Giant-Molecules-Here-There-and-Everywhere-.pdf)
