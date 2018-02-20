@@ -1,2 +1,2 @@
 # unleashed
-Textbooks used.
+Course materials and textbooks 
