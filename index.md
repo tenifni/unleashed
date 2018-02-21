@@ -1,7 +1,8 @@
 # Welcome
 My personal (incomplete) collection of materials (mainly physics, some math and code) used in my undergrad years at UCLA. 
+All free and unleased.
 
-If you have any questions, do not ask me. If there are issues with copyright stuff, do email: [tenifni at gmail]
+If you have any questions, do not ask me. If there are issues with **copyright stuff, do email: [tenifni at gmail]**
 
 ### Work in progress (02/2018): uploading 115B, 1-series, 117. Coming soon: 115C, 180F, and many books. 
 
