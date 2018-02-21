@@ -5,22 +5,27 @@ If you have any questions, do not ask me. If there are issues with **copyright s
 
 ### Work in progress (02/2018): uploading 115B, 1-series, 117. Coming soon: 115C, 180F, and many books. 
 
-## Physics 180Q Quantum optics (2018 Winter, by *W. Campbell*) - Lecture notes
+## Physics 180Q Quantum optics 
+(2018 Winter, by *W. Campbell*) - Lecture notes
 [All the files](https://github.com/tenifni/unleashed/tree/master/180Q)
 
 - [Syllabus](https://github.com/tenifni/unleashed/blob/master/180Q/180Q_Syllabus.pdf)
 - [ABCD Matrices](https://github.com/tenifni/unleashed/blob/master/180Q/ABCD_Matrices.pdf)
 
+## Physics 262 AMO Lectures
+[All the files](https://github.com/tenifni/unleashed/tree/master/262)
 
-## Phyiscs 115B (2017 Fall, by *J. Miao*) - Discussion notes, PSet solutions and final
-
+## Phyiscs 115B 
+(2017 Fall, by *J. Miao*) 
 [All the files](https://github.com/tenifni/unleashed/tree/master/115B)
 
 
-## Math 115A (2016 Spring, by some one)
+## Math 115A 
+(2016 Spring, by some one)
 https://github.com/tenifni/unleashed/tree/master/Math_115A_S16
 
-## Physics 1BH (honors sequence, 2016 Winter, by *S. Saltzberg*) - PSet solutions and 4 midterms
+## Physics 1BH 
+(honors sequence, 2016 Winter, by *S. Saltzberg*) - PSet solutions and 4 midterms
 - [PS1 Solutions](https://github.com/tenifni/unleashed/blob/master/1BH/ps1%20solutions.pdf)
 - [PS2 Solutions](https://github.com/tenifni/unleashed/blob/master/1BH/PS2%20Solutions.pdf)
 - [PS3 Solutions](https://github.com/tenifni/unleashed/blob/master/1BH/ps3%20solutions.pdf)
@@ -36,4 +41,3 @@ https://github.com/tenifni/unleashed/tree/master/Math_115A_S16
 - [Linear Algebra by Friedberg pdf](https://github.com/tenifni/unleashed/blob/master/FriedbergLinear%20Algebra.pdf)
 - [115 Quantum Mechanics Griffiths solution manual, pdf](Griffiths-D-J-Introduction-to-Quantum-Mechanics-Solutions-2nd-Ed-Pearson-s.pdf)
 - [144 Polymer Physics Textbook: Giant Molecules, pdf](https://github.com/tenifni/unleashed/blob/master/Giant-Molecules-Here-There-and-Everywhere-.pdf)
-
